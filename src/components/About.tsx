@@ -12,7 +12,7 @@ const About = () => {
             <div className="aspect-square rounded-3xl bg-gradient-to-br from-purple-200 via-pink-200 to-blue-200 p-1">
               <div className="w-full h-full rounded-3xl bg-glass backdrop-blur-sm border border-white/30 flex items-center justify-center">
                 <img 
-                  src="./../Karina_Sotnikova.png"
+                  src="/Karina_Sotnikova.png"
                   alt="Karina Sotnikova"
                   className="w-full h-full object-cover rounded-3xl"
                 />
